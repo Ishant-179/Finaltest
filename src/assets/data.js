@@ -1,0 +1,6 @@
+export const images = [
+    'https://imgs.search.brave.com/kaklxZp6vpWRORYLlPklCspB59GUSesTBXutqW7U0HQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM2/MDg4NDU2Ni9waG90/by9jaXR5c2NhcGUt/bWl4ZWQtd2l0aC1n/cmVlbi1wbGFudHMt/bXVsdGktbGF5ZXJl/ZC1pbWFnZS5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9clcy/SmNDYVF2NDFCVEtY/X2YzSl9OUG5VRlhw/cF9TSlZwT2JGdlZO/REJHcz0',
+    'https://imgs.search.brave.com/8TurqOqj0_pfuYDA7Wa9Kg-iL0rwtmqwM2m0dz4_Oyg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQy/MDkyMjk2NC9waG90/by9nZWJpcmdzbGFu/ZHNjaGFmdC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9Yk42/RkRDSFRkZllaME9M/RW5BYnFXT053SVNj/dXVlMHJxT0NnZHE1/WFJEOD0',
+    'https://imgs.search.brave.com/hkBJtkFd8gmIj3_fJYElvKIdzmyj0aP23bgacz-r6PI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTQ0/Mzg2NDY3OS9waG90/by9mZWVsLXRoZS1i/ZWF1dHktb2YtbmF0/dXJlLXdpdGgtYWxs/LXlvdXItc2Vuc2Vz/LmpwZz9zPTYxMng2/MTImdz0wJms9MjAm/Yz1wSEFaU0tod0FO/aVZDcXNDME9vT3B1/OVNMZ3FoS2lIWUdB/eG5aOExkd3FFPQ',
+    'https://imgs.search.brave.com/i8V1TqERrH1HFg-HkNtrNUrtwwFptlr2gy32TnFCUec/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNTA2/NDcyMzExL3Bob3Rv/L3N1bnJpc2UuanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPVN1/RGVkVTBLT0VlMTlo/ay16RkFWN0N1VW1P/THJ1ZHhxandqTHR6/WTUzRWM9',
+  ];  
